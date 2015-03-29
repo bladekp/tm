@@ -1,6 +1,0 @@
-; CivilDShow.def : Declares the module parameters for the DLL.
-
-LIBRARY      "CivilDShow"
-
-EXPORTS
-    ; Explicit exports can go here
